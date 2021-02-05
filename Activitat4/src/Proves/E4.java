@@ -7,6 +7,6 @@ public class E4 {
 		System.out.println("Prova4");
 		int d = a + b;
 		System.out.println(d == a + b);
-		System.out.println("fi");
+		System.out.println("fvdfvfvfi");
 	}
 }
