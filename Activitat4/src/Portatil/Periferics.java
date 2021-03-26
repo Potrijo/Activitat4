@@ -7,7 +7,7 @@ public class Periferics {
 	private String mouse;
 	private String keyboard;
 	
-	/*** CONSTRUCTOR ***/
+	/*** CONSTRUCTOR *****/
 	
 	public Periferics(String touchPad, String Screen, String mouse, String keyboard) {
 		this.touchPad = touchPad;
